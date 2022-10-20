@@ -34,20 +34,20 @@ namespace apa
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(280, 196);
+            this.button1.Location = new System.Drawing.Point(713, 12);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // abc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Name = "abc";
             this.Text = "Form1";
             this.ResumeLayout(false);
 
