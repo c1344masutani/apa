@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace apa
 {
-    public partial class Form1 : Form
+    public partial class abc : Form
     {
-        public Form1()
+        public abc()
         {
             InitializeComponent();
         }
